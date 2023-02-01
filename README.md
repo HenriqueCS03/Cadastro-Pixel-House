@@ -16,8 +16,8 @@ Projeto Maven criado para pixel house, com objetivo de cadastrar, visualizar os 
 - Ir no banco myslq(workbashe) e utilizar o banco com localhost de porta 8080, colocar o comando: 
 ### CREATE DATABASE api_pixel_cadastro;
 
-- Abrir Visual Studio code, na pasta "backcadastro" dar run no arquivo "BackcadastroApplication.java".
-
+- Abrir o programa no Visual Studio code. 
+- Na pasta "backcadastro" dar Run no arquivo "BackcadastroApplication.java".
 - Abrir um novo terminal e ir para a pasta frontcadastro, assim colocar o comando:
 ### npm start
  
