@@ -18,7 +18,8 @@ Projeto Maven criado para pixel house, com objetivo de cadastrar, visualizar os 
 
 - Abrir o programa no Visual Studio code. 
 - Na pasta "backcadastro" dar Run no arquivo "BackcadastroApplication.java".
-- Abrir um novo terminal e ir para a pasta frontcadastro, assim colocar o comando:
+- Abrir um novo terminal e ir para a pasta frontcadastro, assim colocar os comandos:
+### npm i
 ### npm start
  
 ##### assim inicializar o React.
