@@ -1,4 +1,4 @@
-##Guia projeto:
+Guia projeto:
 
 Projeto Maven criado para pixel house, com objetivo de cadastrar, visualizar os usuários cadastrados e poder realizar alterações nestes.
 
