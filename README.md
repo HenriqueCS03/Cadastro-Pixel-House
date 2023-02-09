@@ -1,16 +1,18 @@
 # Guia projeto:
 
-Projeto Maven criado para pixel house, com objetivo de cadastrar, visualizar os usuários cadastrados e poder realizar alterações nestes.
-
-## Ferramentas utilizadas:
-- [x] Mysql - workbash
-- [x] Visual Studio Code
-- [x] Spring boot 3.0.2(spring initializr)
-- [x] Java 17
-- [x] Postman(para testes de api)
+Projeto React com integração back-end Spring criado para pixel house, com objetivo de cadastrar, visualizar os usuários cadastrados e poder realizar alterações nestes.
 
 # Bibliotecas:
 - [x] Bootstrap
+- [x] React
+- [x] Axios
+
+## Ferramentas utilizadas:
+- [x] Spring boot 3.0.2(spring initializer)
+- [x] Java 17
+- [x] Postman(para testes de api)
+- [x] Mysql - workbash
+- [x] Visual Studio Code
 
 ## Passo a passo:
 - Ir no banco myslq(workbashe) e utilizar o banco com localhost de porta 8080, colocar o comando: 
